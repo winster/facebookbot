@@ -1,6 +1,6 @@
 {
-    "appSecret": "asas",
-    "pageAccessToken": "asas",
+    "appSecret": "c30000928078b106ee35c464840da852",
+    "pageAccessToken": "EAAXocmXq29QBAOaX7uybQb3ZBAuaHvhVlnsuJL2O7SoMDo5big7WgHZBUQmCUUAhLDkCnKHWLHyf4wXQiBp6J8DWvpRZArffZBVc54mZBrPWUTyznJvrFLy84IG1iz0EKAbKhFalHnZBuM4Q2YZAkDknFZAcOr1cma8BcYY69DUJxwZDZD",
     "validationToken": "winster_jose_is_the_master_of_bots",
-    "serverURL": "asas"
+    "serverURL": "https://facebookmbot.herokuapp.com/"
 }
